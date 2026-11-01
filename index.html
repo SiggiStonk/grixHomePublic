@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f3ed">
+  <meta name="description" content="Explore facade colors for our home. Three perspectives, six independent surfaces, GIMA shades and a free color palette.">
+  <title>Our home · Color studio</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%233b5148'/%3E%3Cpath d='M9 21L20 10l11 11v11H9Z' fill='none' stroke='%23f5f3ed' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="./" aria-label="Our home color studio"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M7 21 20 9l13 12v13H7Z M16 34V23h8v11"/></svg><span>our home<span class="brand-sub">COLOR STUDIO</span></span></a>
+    <div class="header-note"><span class="live-dot"></span>A home, in your colors.</div>
+    <button class="button subtle" id="share">Copy design link <span aria-hidden="true">↗</span></button>
+  </header>
+  <main class="workspace">
+    <section class="visuals" aria-labelledby="preview-title">
+      <div class="intro"><div><p class="eyebrow">THE NEXT CHAPTER</p><h1 id="preview-title">Make it feel like home.</h1><p class="intro-text">Six surfaces. Three perspectives. Your combination.</p></div><span class="project-tag">HOUSE / 01</span></div>
+      <div class="view-toolbar"><span class="small-label">REPRESENTATION</span><div class="segmented" role="group" aria-label="House representation"><button id="representation-original" class="active" aria-pressed="true">Original</button><button id="representation-realistic" aria-pressed="false">Realistic</button></div></div>
+      <p id="realism-note" class="muted tiny" role="status" hidden>Realistic material and lighting preview. To change colors, switch to Original. Your color design is kept.</p>
+      <div class="view-toolbar"><span class="small-label">LIVE PREVIEW</span><div class="segmented" aria-label="Preview mode"><button id="mode-design" class="active" aria-pressed="true">Your design</button><button id="mode-original" aria-pressed="false">Original</button><button id="mode-map" aria-pressed="false">Area map</button></div></div>
+      <div class="views" id="views"><p class="loading" id="loading">Preparing your house previews…</p></div>
+      <div class="preview-footer"><span>Click a wall to select its surface.</span><a class="text-button" href="./experiments/realism/">View realism studies ↗</a><button class="text-button" id="guide">View approved area guide ↗</button><button class="text-button" id="download">Download views ↓</button></div>
+      <section class="saved-section" aria-labelledby="saved-heading"><div class="section-heading"><div><p class="eyebrow">A LITTLE INSPIRATION</p><h2 id="saved-heading">Your shortlist</h2></div><button class="button" id="save">＋ Save this combination</button></div><div id="saved-list" class="saved-list"></div><p class="muted tiny">Saved on this browser. Use a design link to share a combination or keep it on another device.</p></section>
+    </section>
+    <aside class="sidebar" aria-label="Color controls">
+      <div class="sidebar-top"><p class="eyebrow">THE MATERIAL PALETTE</p><h2>A color for every detail.</h2><p class="muted">Choose a surface, then find its shade.</p></div>
+      <section class="area-section" aria-labelledby="area-heading"><div class="step-heading"><h3 id="area-heading"><span>01</span> Select a surface</h3><button id="reset" class="text-button">Reset all</button></div><div id="area-list" class="area-list"></div></section>
+      <section class="palette-section" aria-labelledby="palette-heading"><div class="step-heading"><h3 id="palette-heading"><span>02</span> Choose a color</h3></div>
+        <div class="palette-tabs" role="tablist" aria-label="Color source"><button role="tab" id="tab-gima" aria-controls="gima-panel" aria-selected="true" tabindex="0">GIMA colors</button><button role="tab" id="tab-free" aria-controls="free-panel" aria-selected="false" tabindex="-1">Free palette</button></div>
+        <div id="gima-panel" role="tabpanel" aria-labelledby="tab-gima">
+          <label class="sr-only" for="color-search">Search GIMA shades</label><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="color-search" type="search" placeholder="Search by shade name or code…" autocomplete="off"></div>
+          <label class="sr-only" for="collection">Color chart</label><select id="collection"><option value="all">All color charts</option></select>
+          <div class="palette-meta"><span id="color-count">Loading GIMA shades…</span><a href="https://gima-profi.de/services/farbtonkarten/" target="_blank" rel="noopener noreferrer">Official charts ↗</a></div>
+          <div class="swatch-grid" id="gima-swatches" aria-label="GIMA shades"></div>
+          <p id="catalog-error" class="error" hidden></p>
+          <button class="text-button more" id="more-colors" hidden>Show more shades</button>
+        </div>
+        <div id="free-panel" role="tabpanel" aria-labelledby="tab-free" hidden><p class="palette-caption">A few quiet tones to start with.</p><div id="free-swatches" class="swatch-grid" aria-label="Suggested colors"></div><div class="custom-color"><label for="color-picker">Your own shade</label><div class="color-inputs"><input type="color" id="color-picker" value="#e6ded0" aria-label="Choose a custom color"><label class="sr-only" for="hex-input">HEX color</label><input id="hex-input" value="#E6DED0" maxlength="7" spellcheck="false" pattern="#[0-9a-fA-F]{6}" aria-describedby="hex-error"><button class="button" id="apply-hex">Apply</button></div><p id="hex-error" class="error" hidden>Enter six HEX digits, for example #E6DED0.</p></div></div>
+        <div class="current-color"><span id="current-chip" class="current-chip"></span><div><span class="small-label" id="current-area">MAIN FACADE</span><strong id="current-name">Original render</strong><span id="current-detail" class="tiny muted">Choose a shade to begin</span></div><button class="text-button" id="reset-area" aria-label="Restore original color for selected surface">↺</button></div>
+        <a id="shade-source" class="source-link" target="_blank" rel="noopener noreferrer" hidden>View this shade on GIMA ↗</a>
+      </section>
+      <p class="color-note">A preview, not a paint sample. Light, surface texture and your screen affect the result. Check a physical GIMA sample before choosing your finish.</p>
+    </aside>
+  </main>
+  <footer class="page-footer"><span>OUR HOME · COLOR STUDY</span><span>Made for the place we’ll call home.</span></footer>
+  <div id="status" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="guide-dialog"><div class="dialog-heading"><h2>The six paintable areas</h2><button class="button" id="close-guide">Close ×</button></div><img src="./assets/area-guide-v8.png" alt="Approved v8 reference: blue main facade, amber corner projection, purple garage, teal base strip, coral entrance projection, green full-height wall dormer."></dialog>
+  <dialog id="save-dialog"><form method="dialog" id="save-form"><p class="eyebrow">YOUR SHORTLIST</p><h2>Give this combination a name.</h2><label for="design-name">Design name</label><input id="design-name" maxlength="60" placeholder="Warm stone & sage" required><div class="dialog-actions"><button class="button" type="button" id="cancel-save">Cancel</button><button class="button primary" type="submit">Save combination</button></div></form></dialog>
+  <noscript>This color studio needs JavaScript to recolor the house. Please enable JavaScript in your browser.</noscript>
+</body>
+</html>

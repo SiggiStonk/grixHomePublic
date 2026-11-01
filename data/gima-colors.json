@@ -1,0 +1,2428 @@
+{
+  "source": "https://gima-profi.de/services/farbtonkarten/",
+  "retrieved": "2026-10-31",
+  "method": "Displayed sRGB swatches sampled from official chart JPEGs; shade labels and PG/HB transcribed from those images. Screen approximations, not physical color measurements.",
+  "colors": [
+    {
+      "code": "23010",
+      "name": "23010 Elfenbein",
+      "hex": "#EFEFE7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "0",
+      "hbw": "86%",
+      "source": "https://gima-profi.de/media/image/d5/55/e0/4_Elfenbein_1920x1920.jpg"
+    },
+    {
+      "code": "23020",
+      "name": "23020 Elfenbein",
+      "hex": "#F1EDE4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "0",
+      "hbw": "85%",
+      "source": "https://gima-profi.de/media/image/d5/55/e0/4_Elfenbein_1920x1920.jpg"
+    },
+    {
+      "code": "23030",
+      "name": "23030 Elfenbein",
+      "hex": "#EEEEE6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "0",
+      "hbw": "85%",
+      "source": "https://gima-profi.de/media/image/d5/55/e0/4_Elfenbein_1920x1920.jpg"
+    },
+    {
+      "code": "23040",
+      "name": "23040 Perle",
+      "hex": "#E7E2DC",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/8d/2f/63/5_Perle_1920x1920.jpg"
+    },
+    {
+      "code": "23050",
+      "name": "23050 Perle",
+      "hex": "#E6E0D4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "0",
+      "hbw": "75%",
+      "source": "https://gima-profi.de/media/image/8d/2f/63/5_Perle_1920x1920.jpg"
+    },
+    {
+      "code": "23060",
+      "name": "23060 Perle",
+      "hex": "#DDDDDD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "0",
+      "hbw": "72%",
+      "source": "https://gima-profi.de/media/image/8d/2f/63/5_Perle_1920x1920.jpg"
+    },
+    {
+      "code": "23070",
+      "name": "23070 Puder",
+      "hex": "#EDE1D5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/99/f3/a4/6_Puder_1920x1920.jpg"
+    },
+    {
+      "code": "23080",
+      "name": "23080 Puder",
+      "hex": "#DDD0CA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "64%",
+      "source": "https://gima-profi.de/media/image/99/f3/a4/6_Puder_1920x1920.jpg"
+    },
+    {
+      "code": "23090",
+      "name": "23090 Puder",
+      "hex": "#E5DAD4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "71%",
+      "source": "https://gima-profi.de/media/image/99/f3/a4/6_Puder_1920x1920.jpg"
+    },
+    {
+      "code": "23101",
+      "name": "23101 Curry",
+      "hex": "#C4AB69",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "41%",
+      "source": "https://gima-profi.de/media/image/92/de/5a/8_1Curry_1920x1920.jpg"
+    },
+    {
+      "code": "23102",
+      "name": "23102 Curry",
+      "hex": "#D2BD84",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/92/de/5a/8_1Curry_1920x1920.jpg"
+    },
+    {
+      "code": "23103",
+      "name": "23103 Curry",
+      "hex": "#DBCB9A",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "60%",
+      "source": "https://gima-profi.de/media/image/92/de/5a/8_1Curry_1920x1920.jpg"
+    },
+    {
+      "code": "23104",
+      "name": "23104 Curry",
+      "hex": "#E4D7AD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "68%",
+      "source": "https://gima-profi.de/media/image/92/de/5a/8_1Curry_1920x1920.jpg"
+    },
+    {
+      "code": "23105",
+      "name": "23105 Curry",
+      "hex": "#EADFBF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "75%",
+      "source": "https://gima-profi.de/media/image/92/de/5a/8_1Curry_1920x1920.jpg"
+    },
+    {
+      "code": "23111",
+      "name": "23111 Raps",
+      "hex": "#F5DE6E",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "73%",
+      "source": "https://gima-profi.de/media/image/35/e5/36/9_1Raps_1920x1920.jpg"
+    },
+    {
+      "code": "23112",
+      "name": "23112 Raps",
+      "hex": "#F8E890",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "80%",
+      "source": "https://gima-profi.de/media/image/35/e5/36/9_1Raps_1920x1920.jpg"
+    },
+    {
+      "code": "23113",
+      "name": "23113 Raps",
+      "hex": "#F9ECA6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "83%",
+      "source": "https://gima-profi.de/media/image/35/e5/36/9_1Raps_1920x1920.jpg"
+    },
+    {
+      "code": "23114",
+      "name": "23114 Raps",
+      "hex": "#F4EEBA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "84%",
+      "source": "https://gima-profi.de/media/image/35/e5/36/9_1Raps_1920x1920.jpg"
+    },
+    {
+      "code": "23115",
+      "name": "23115 Raps",
+      "hex": "#F6F1C9",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "87%",
+      "source": "https://gima-profi.de/media/image/35/e5/36/9_1Raps_1920x1920.jpg"
+    },
+    {
+      "code": "23121",
+      "name": "23121 Quitte",
+      "hex": "#F6D683",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "69%",
+      "source": "https://gima-profi.de/media/image/06/ce/56/10_Quitte_1920x1920.jpg"
+    },
+    {
+      "code": "23122",
+      "name": "23122 Quitte",
+      "hex": "#FAE2A6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "78%",
+      "source": "https://gima-profi.de/media/image/06/ce/56/10_Quitte_1920x1920.jpg"
+    },
+    {
+      "code": "23123",
+      "name": "23123 Quitte",
+      "hex": "#F6E8B7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "81%",
+      "source": "https://gima-profi.de/media/image/06/ce/56/10_Quitte_1920x1920.jpg"
+    },
+    {
+      "code": "23124",
+      "name": "23124 Quitte",
+      "hex": "#F6EEC7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "84%",
+      "source": "https://gima-profi.de/media/image/06/ce/56/10_Quitte_1920x1920.jpg"
+    },
+    {
+      "code": "23125",
+      "name": "23125 Quitte",
+      "hex": "#F6EFD3",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "86%",
+      "source": "https://gima-profi.de/media/image/06/ce/56/10_Quitte_1920x1920.jpg"
+    },
+    {
+      "code": "23131",
+      "name": "23131 Gold",
+      "hex": "#E5BD7F",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "55%",
+      "source": "https://gima-profi.de/media/image/9e/51/7b/12_Gold_1920x1920.jpg"
+    },
+    {
+      "code": "23132",
+      "name": "23132 Gold",
+      "hex": "#ECCB95",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/9e/51/7b/12_Gold_1920x1920.jpg"
+    },
+    {
+      "code": "23133",
+      "name": "23133 Gold",
+      "hex": "#F1D6A9",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "70%",
+      "source": "https://gima-profi.de/media/image/9e/51/7b/12_Gold_1920x1920.jpg"
+    },
+    {
+      "code": "23134",
+      "name": "23134 Gold",
+      "hex": "#F3E1BB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "76%",
+      "source": "https://gima-profi.de/media/image/9e/51/7b/12_Gold_1920x1920.jpg"
+    },
+    {
+      "code": "23135",
+      "name": "23135 Gold",
+      "hex": "#F5E5CB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "81%",
+      "source": "https://gima-profi.de/media/image/9e/51/7b/12_Gold_1920x1920.jpg"
+    },
+    {
+      "code": "23141",
+      "name": "23141 Mustard",
+      "hex": "#E2A964",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "",
+      "hbw": "45%",
+      "source": "https://gima-profi.de/media/image/f4/e8/91/13_Mustard_1920x1920.jpg"
+    },
+    {
+      "code": "23142",
+      "name": "23142 Mustard",
+      "hex": "#EBBD82",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "",
+      "hbw": "56%",
+      "source": "https://gima-profi.de/media/image/f4/e8/91/13_Mustard_1920x1920.jpg"
+    },
+    {
+      "code": "23143",
+      "name": "23143 Mustard",
+      "hex": "#F1CC98",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "64%",
+      "source": "https://gima-profi.de/media/image/f4/e8/91/13_Mustard_1920x1920.jpg"
+    },
+    {
+      "code": "23144",
+      "name": "23144 Mustard",
+      "hex": "#F3D6AC",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "71%",
+      "source": "https://gima-profi.de/media/image/f4/e8/91/13_Mustard_1920x1920.jpg"
+    },
+    {
+      "code": "23145",
+      "name": "23145 Mustard",
+      "hex": "#F4E2BE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "76%",
+      "source": "https://gima-profi.de/media/image/f4/e8/91/13_Mustard_1920x1920.jpg"
+    },
+    {
+      "code": "23151",
+      "name": "23151 Kaki",
+      "hex": "#DC9A68",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "39%",
+      "source": "https://gima-profi.de/media/image/cd/73/4c/14_Kaki_1920x1920.jpg"
+    },
+    {
+      "code": "23152",
+      "name": "23152 Kaki",
+      "hex": "#EEC09C",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "58%",
+      "source": "https://gima-profi.de/media/image/cd/73/4c/14_Kaki_1920x1920.jpg"
+    },
+    {
+      "code": "23153",
+      "name": "23153 Kaki",
+      "hex": "#F3CFAF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "67%",
+      "source": "https://gima-profi.de/media/image/cd/73/4c/14_Kaki_1920x1920.jpg"
+    },
+    {
+      "code": "23154",
+      "name": "23154 Kaki",
+      "hex": "#F7D8C3",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "73%",
+      "source": "https://gima-profi.de/media/image/cd/73/4c/14_Kaki_1920x1920.jpg"
+    },
+    {
+      "code": "23155",
+      "name": "23155 Kaki",
+      "hex": "#F8E3D2",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "79%",
+      "source": "https://gima-profi.de/media/image/cd/73/4c/14_Kaki_1920x1920.jpg"
+    },
+    {
+      "code": "23161",
+      "name": "23161 Pfirsich",
+      "hex": "#E09D73",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "41%",
+      "source": "https://gima-profi.de/media/image/d2/9c/34/15_Pfirsich_1920x1920.jpg"
+    },
+    {
+      "code": "23162",
+      "name": "23162 Pfirsich",
+      "hex": "#E9B699",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/d2/9c/34/15_Pfirsich_1920x1920.jpg"
+    },
+    {
+      "code": "23163",
+      "name": "23163 Pfirsich",
+      "hex": "#F3D0BC",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "67%",
+      "source": "https://gima-profi.de/media/image/d2/9c/34/15_Pfirsich_1920x1920.jpg"
+    },
+    {
+      "code": "23164",
+      "name": "23164 Pfirsich",
+      "hex": "#F3D8C5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "73%",
+      "source": "https://gima-profi.de/media/image/d2/9c/34/15_Pfirsich_1920x1920.jpg"
+    },
+    {
+      "code": "23165",
+      "name": "23165 Pfirsich",
+      "hex": "#F5E2DE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "78%",
+      "source": "https://gima-profi.de/media/image/d2/9c/34/15_Pfirsich_1920x1920.jpg"
+    },
+    {
+      "code": "23171",
+      "name": "23171 Pampas",
+      "hex": "#D8BB93",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/00/e9/cf/17_Pampas_1920x1920.jpg"
+    },
+    {
+      "code": "23172",
+      "name": "23172 Pampas",
+      "hex": "#E1C9A5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "61%",
+      "source": "https://gima-profi.de/media/image/00/e9/cf/17_Pampas_1920x1920.jpg"
+    },
+    {
+      "code": "23173",
+      "name": "23173 Pampas",
+      "hex": "#E9D6B8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "69%",
+      "source": "https://gima-profi.de/media/image/00/e9/cf/17_Pampas_1920x1920.jpg"
+    },
+    {
+      "code": "23174",
+      "name": "23174 Pampas",
+      "hex": "#F0E0C9",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "76%",
+      "source": "https://gima-profi.de/media/image/00/e9/cf/17_Pampas_1920x1920.jpg"
+    },
+    {
+      "code": "23175",
+      "name": "23175 Pampas",
+      "hex": "#F0E8D5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "81%",
+      "source": "https://gima-profi.de/media/image/00/e9/cf/17_Pampas_1920x1920.jpg"
+    },
+    {
+      "code": "23181",
+      "name": "23181 Düne",
+      "hex": "#C2AD9C",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "43%",
+      "source": "https://gima-profi.de/media/image/11/d0/78/18_D-ne_1920x1920.jpg"
+    },
+    {
+      "code": "23182",
+      "name": "23182 Düne",
+      "hex": "#D0BDAF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/11/d0/78/18_D-ne_1920x1920.jpg"
+    },
+    {
+      "code": "23183",
+      "name": "23183 Düne",
+      "hex": "#DDCBBD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/11/d0/78/18_D-ne_1920x1920.jpg"
+    },
+    {
+      "code": "23184",
+      "name": "23184 Düne",
+      "hex": "#E4D7CE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "70%",
+      "source": "https://gima-profi.de/media/image/11/d0/78/18_D-ne_1920x1920.jpg"
+    },
+    {
+      "code": "23185",
+      "name": "23185 Düne",
+      "hex": "#EBE0DA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/11/d0/78/18_D-ne_1920x1920.jpg"
+    },
+    {
+      "code": "23191",
+      "name": "23191 Leinen",
+      "hex": "#C2AF91",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "44%",
+      "source": "https://gima-profi.de/media/image/ba/16/24/19_Leinen_1920x1920.jpg"
+    },
+    {
+      "code": "23192",
+      "name": "23192 Leinen",
+      "hex": "#D0BFA5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "54%",
+      "source": "https://gima-profi.de/media/image/ba/16/24/19_Leinen_1920x1920.jpg"
+    },
+    {
+      "code": "23193",
+      "name": "23193 Leinen",
+      "hex": "#DDCDB6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/ba/16/24/19_Leinen_1920x1920.jpg"
+    },
+    {
+      "code": "23194",
+      "name": "23194 Leinen",
+      "hex": "#E5DAC8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "70%",
+      "source": "https://gima-profi.de/media/image/ba/16/24/19_Leinen_1920x1920.jpg"
+    },
+    {
+      "code": "23195",
+      "name": "23195 Leinen",
+      "hex": "#EBE2D1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/ba/16/24/19_Leinen_1920x1920.jpg"
+    },
+    {
+      "code": "23201",
+      "name": "23201 Mud",
+      "hex": "#918070",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "23%",
+      "source": "https://gima-profi.de/media/image/dd/2c/36/21_Mud_1920x1920.jpg"
+    },
+    {
+      "code": "23202",
+      "name": "23202 Mud",
+      "hex": "#A99C8C",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "34%",
+      "source": "https://gima-profi.de/media/image/dd/2c/36/21_Mud_1920x1920.jpg"
+    },
+    {
+      "code": "23203",
+      "name": "23203 Mud",
+      "hex": "#CAC0B4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/dd/2c/36/21_Mud_1920x1920.jpg"
+    },
+    {
+      "code": "23204",
+      "name": "23204 Mud",
+      "hex": "#D6CCC2",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/dd/2c/36/21_Mud_1920x1920.jpg"
+    },
+    {
+      "code": "23205",
+      "name": "23205 Mud",
+      "hex": "#E0D9D1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "70%",
+      "source": "https://gima-profi.de/media/image/dd/2c/36/21_Mud_1920x1920.jpg"
+    },
+    {
+      "code": "23211",
+      "name": "23211 Wood",
+      "hex": "#927D6C",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "22%",
+      "source": "https://gima-profi.de/media/image/97/5a/de/22_Wood_1920x1920.jpg"
+    },
+    {
+      "code": "23212",
+      "name": "23212 Wood",
+      "hex": "#AD9887",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "33%",
+      "source": "https://gima-profi.de/media/image/97/5a/de/22_Wood_1920x1920.jpg"
+    },
+    {
+      "code": "23213",
+      "name": "23213 Wood",
+      "hex": "#BFAC9D",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "42%",
+      "source": "https://gima-profi.de/media/image/97/5a/de/22_Wood_1920x1920.jpg"
+    },
+    {
+      "code": "23214",
+      "name": "23214 Wood",
+      "hex": "#CEBCAE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/97/5a/de/22_Wood_1920x1920.jpg"
+    },
+    {
+      "code": "23215",
+      "name": "23215 Wood",
+      "hex": "#D9CDC1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/97/5a/de/22_Wood_1920x1920.jpg"
+    },
+    {
+      "code": "23221",
+      "name": "23221 Walnuss",
+      "hex": "#8A786A",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "20%",
+      "source": "https://gima-profi.de/media/image/5d/77/ef/23_Walnuss_1920x1920.jpg"
+    },
+    {
+      "code": "23222",
+      "name": "23222 Walnuss",
+      "hex": "#A8968C",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "32%",
+      "source": "https://gima-profi.de/media/image/5d/77/ef/23_Walnuss_1920x1920.jpg"
+    },
+    {
+      "code": "23223",
+      "name": "23223 Walnuss",
+      "hex": "#B6A89F",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "41%",
+      "source": "https://gima-profi.de/media/image/5d/77/ef/23_Walnuss_1920x1920.jpg"
+    },
+    {
+      "code": "23224",
+      "name": "23224 Walnuss",
+      "hex": "#C9BCB3",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "51%",
+      "source": "https://gima-profi.de/media/image/5d/77/ef/23_Walnuss_1920x1920.jpg"
+    },
+    {
+      "code": "23225",
+      "name": "23225 Walnuss",
+      "hex": "#D4C9C3",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "61%",
+      "source": "https://gima-profi.de/media/image/5d/77/ef/23_Walnuss_1920x1920.jpg"
+    },
+    {
+      "code": "23231",
+      "name": "23231 Organza",
+      "hex": "#AC9891",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "34%",
+      "source": "https://gima-profi.de/media/image/33/4b/89/24_Organza_1920x1920.jpg"
+    },
+    {
+      "code": "23232",
+      "name": "23232 Organza",
+      "hex": "#B8A49D",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "39%",
+      "source": "https://gima-profi.de/media/image/33/4b/89/24_Organza_1920x1920.jpg"
+    },
+    {
+      "code": "23233",
+      "name": "23233 Organza",
+      "hex": "#C8B5B1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "49%",
+      "source": "https://gima-profi.de/media/image/33/4b/89/24_Organza_1920x1920.jpg"
+    },
+    {
+      "code": "23234",
+      "name": "23234 Organza",
+      "hex": "#D4C7C1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "58%",
+      "source": "https://gima-profi.de/media/image/33/4b/89/24_Organza_1920x1920.jpg"
+    },
+    {
+      "code": "23235",
+      "name": "23235 Organza",
+      "hex": "#E0D5D1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "67%",
+      "source": "https://gima-profi.de/media/image/33/4b/89/24_Organza_1920x1920.jpg"
+    },
+    {
+      "code": "23241",
+      "name": "23241 Orient",
+      "hex": "#AA6955",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "19%",
+      "source": "https://gima-profi.de/media/image/5b/f2/46/26_Orient_1920x1920.jpg"
+    },
+    {
+      "code": "23242",
+      "name": "23242 Orient",
+      "hex": "#BD7F74",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "27%",
+      "source": "https://gima-profi.de/media/image/5b/f2/46/26_Orient_1920x1920.jpg"
+    },
+    {
+      "code": "23243",
+      "name": "23243 Orient",
+      "hex": "#CB9185",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "34%",
+      "source": "https://gima-profi.de/media/image/5b/f2/46/26_Orient_1920x1920.jpg"
+    },
+    {
+      "code": "23244",
+      "name": "23244 Orient",
+      "hex": "#D6A597",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "44%",
+      "source": "https://gima-profi.de/media/image/5b/f2/46/26_Orient_1920x1920.jpg"
+    },
+    {
+      "code": "23245",
+      "name": "23245 Orient",
+      "hex": "#EBCBC0",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/5b/f2/46/26_Orient_1920x1920.jpg"
+    },
+    {
+      "code": "23251",
+      "name": "23251 Ahorn",
+      "hex": "#A7645E",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "18%",
+      "source": "https://gima-profi.de/media/image/2d/a2/0a/27_Ahorn_1920x1920.jpg"
+    },
+    {
+      "code": "23252",
+      "name": "23252 Ahorn",
+      "hex": "#CD9693",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "36%",
+      "source": "https://gima-profi.de/media/image/2d/a2/0a/27_Ahorn_1920x1920.jpg"
+    },
+    {
+      "code": "23253",
+      "name": "23253 Ahorn",
+      "hex": "#D6A9A4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "45%",
+      "source": "https://gima-profi.de/media/image/2d/a2/0a/27_Ahorn_1920x1920.jpg"
+    },
+    {
+      "code": "23254",
+      "name": "23254 Ahorn",
+      "hex": "#E3BAB8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "55%",
+      "source": "https://gima-profi.de/media/image/2d/a2/0a/27_Ahorn_1920x1920.jpg"
+    },
+    {
+      "code": "23255",
+      "name": "23255 Ahorn",
+      "hex": "#EBC9C7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "64%",
+      "source": "https://gima-profi.de/media/image/2d/a2/0a/27_Ahorn_1920x1920.jpg"
+    },
+    {
+      "code": "23261",
+      "name": "23261 Grenadine",
+      "hex": "#A37872",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "22%",
+      "source": "https://gima-profi.de/media/image/1f/2a/45/28_Grenadine_1920x1920.jpg"
+    },
+    {
+      "code": "23262",
+      "name": "23262 Grenadine",
+      "hex": "#C19892",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "36%",
+      "source": "https://gima-profi.de/media/image/1f/2a/45/28_Grenadine_1920x1920.jpg"
+    },
+    {
+      "code": "23263",
+      "name": "23263 Grenadine",
+      "hex": "#CFACA8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "46%",
+      "source": "https://gima-profi.de/media/image/1f/2a/45/28_Grenadine_1920x1920.jpg"
+    },
+    {
+      "code": "23264",
+      "name": "23264 Grenadine",
+      "hex": "#DBBEBA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "55%",
+      "source": "https://gima-profi.de/media/image/1f/2a/45/28_Grenadine_1920x1920.jpg"
+    },
+    {
+      "code": "23265",
+      "name": "23265 Grenadine",
+      "hex": "#E4CCCA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "64%",
+      "source": "https://gima-profi.de/media/image/1f/2a/45/28_Grenadine_1920x1920.jpg"
+    },
+    {
+      "code": "23271",
+      "name": "23271 Traube",
+      "hex": "#A48B91",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "28%",
+      "source": "https://gima-profi.de/media/image/8a/a4/9c/30_Traube_1920x1920.jpg"
+    },
+    {
+      "code": "23272",
+      "name": "23272 Traube",
+      "hex": "#BAA5AA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "40%",
+      "source": "https://gima-profi.de/media/image/8a/a4/9c/30_Traube_1920x1920.jpg"
+    },
+    {
+      "code": "23273",
+      "name": "23273 Traube",
+      "hex": "#CBB6BB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "50%",
+      "source": "https://gima-profi.de/media/image/8a/a4/9c/30_Traube_1920x1920.jpg"
+    },
+    {
+      "code": "23274",
+      "name": "23274 Traube",
+      "hex": "#D6C7CA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "60%",
+      "source": "https://gima-profi.de/media/image/8a/a4/9c/30_Traube_1920x1920.jpg"
+    },
+    {
+      "code": "23275",
+      "name": "23275 Traube",
+      "hex": "#E0D4D6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "68%",
+      "source": "https://gima-profi.de/media/image/8a/a4/9c/30_Traube_1920x1920.jpg"
+    },
+    {
+      "code": "23281",
+      "name": "23281 Aubergine",
+      "hex": "#9F919E",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "30%",
+      "source": "https://gima-profi.de/media/image/53/89/4c/31_Aubergine_1920x1920.jpg"
+    },
+    {
+      "code": "23282",
+      "name": "23282 Aubergine",
+      "hex": "#C5BEC6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/53/89/4c/31_Aubergine_1920x1920.jpg"
+    },
+    {
+      "code": "23283",
+      "name": "23283 Aubergine",
+      "hex": "#D4CED2",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/53/89/4c/31_Aubergine_1920x1920.jpg"
+    },
+    {
+      "code": "23284",
+      "name": "23284 Aubergine",
+      "hex": "#DFD9DB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "70%",
+      "source": "https://gima-profi.de/media/image/53/89/4c/31_Aubergine_1920x1920.jpg"
+    },
+    {
+      "code": "23285",
+      "name": "23285 Aubergine",
+      "hex": "#E5E3E4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "78%",
+      "source": "https://gima-profi.de/media/image/53/89/4c/31_Aubergine_1920x1920.jpg"
+    },
+    {
+      "code": "23291",
+      "name": "23291 Lilac",
+      "hex": "#8A8694",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "25%",
+      "source": "https://gima-profi.de/media/image/c8/65/f8/32_Lilac_1920x1920.jpg"
+    },
+    {
+      "code": "23292",
+      "name": "23292 Lilac",
+      "hex": "#A3A1AE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "37%",
+      "source": "https://gima-profi.de/media/image/c8/65/f8/32_Lilac_1920x1920.jpg"
+    },
+    {
+      "code": "23293",
+      "name": "23293 Lilac",
+      "hex": "#B6B5BD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "46%",
+      "source": "https://gima-profi.de/media/image/c8/65/f8/32_Lilac_1920x1920.jpg"
+    },
+    {
+      "code": "23294",
+      "name": "23294 Lilac",
+      "hex": "#C6C5CB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "57%",
+      "source": "https://gima-profi.de/media/image/c8/65/f8/32_Lilac_1920x1920.jpg"
+    },
+    {
+      "code": "23295",
+      "name": "23295 Lilac",
+      "hex": "#D4D4D6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "65%",
+      "source": "https://gima-profi.de/media/image/c8/65/f8/32_Lilac_1920x1920.jpg"
+    },
+    {
+      "code": "23301",
+      "name": "23301 Heidelbeere",
+      "hex": "#898D99",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "27%",
+      "source": "https://gima-profi.de/media/image/73/14/6c/33_Heidelbeere_1920x1920.jpg"
+    },
+    {
+      "code": "23302",
+      "name": "23302 Heidelbeere",
+      "hex": "#9BA1AD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "35%",
+      "source": "https://gima-profi.de/media/image/73/14/6c/33_Heidelbeere_1920x1920.jpg"
+    },
+    {
+      "code": "23303",
+      "name": "23303 Heidelbeere",
+      "hex": "#ADB1BC",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "44%",
+      "source": "https://gima-profi.de/media/image/73/14/6c/33_Heidelbeere_1920x1920.jpg"
+    },
+    {
+      "code": "23304",
+      "name": "23304 Heidelbeere",
+      "hex": "#C0C5CB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "54%",
+      "source": "https://gima-profi.de/media/image/73/14/6c/33_Heidelbeere_1920x1920.jpg"
+    },
+    {
+      "code": "23305",
+      "name": "23305 Heidelbeere",
+      "hex": "#D0D1D6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "64%",
+      "source": "https://gima-profi.de/media/image/73/14/6c/33_Heidelbeere_1920x1920.jpg"
+    },
+    {
+      "code": "23311",
+      "name": "23311 Gletscher",
+      "hex": "#9BBED4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "",
+      "hbw": "",
+      "source": "https://gima-profi.de/media/image/9b/e1/98/35_Gletscher_1920x1920.jpg"
+    },
+    {
+      "code": "23312",
+      "name": "23312 Gletscher",
+      "hex": "#B2CCDB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "58%",
+      "source": "https://gima-profi.de/media/image/9b/e1/98/35_Gletscher_1920x1920.jpg"
+    },
+    {
+      "code": "23313",
+      "name": "23313 Gletscher",
+      "hex": "#C5D8E6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "67%",
+      "source": "https://gima-profi.de/media/image/9b/e1/98/35_Gletscher_1920x1920.jpg"
+    },
+    {
+      "code": "23314",
+      "name": "23314 Gletscher",
+      "hex": "#C9E0E8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "73%",
+      "source": "https://gima-profi.de/media/image/9b/e1/98/35_Gletscher_1920x1920.jpg"
+    },
+    {
+      "code": "23315",
+      "name": "23315 Gletscher",
+      "hex": "#DBE5E7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/9b/e1/98/35_Gletscher_1920x1920.jpg"
+    },
+    {
+      "code": "23321",
+      "name": "23321 Pool",
+      "hex": "#6DB1DE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "",
+      "hbw": "",
+      "source": "https://gima-profi.de/media/image/ac/17/0d/36_Pool_1920x1920.jpg"
+    },
+    {
+      "code": "23322",
+      "name": "23322 Pool",
+      "hex": "#88C2E7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "49%",
+      "source": "https://gima-profi.de/media/image/ac/17/0d/36_Pool_1920x1920.jpg"
+    },
+    {
+      "code": "23323",
+      "name": "23323 Pool",
+      "hex": "#A5CEEC",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "58%",
+      "source": "https://gima-profi.de/media/image/ac/17/0d/36_Pool_1920x1920.jpg"
+    },
+    {
+      "code": "23324",
+      "name": "23324 Pool",
+      "hex": "#BDD9EE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "67%",
+      "source": "https://gima-profi.de/media/image/ac/17/0d/36_Pool_1920x1920.jpg"
+    },
+    {
+      "code": "23325",
+      "name": "23325 Pool",
+      "hex": "#D4E6F0",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "76%",
+      "source": "https://gima-profi.de/media/image/ac/17/0d/36_Pool_1920x1920.jpg"
+    },
+    {
+      "code": "23331",
+      "name": "23331 Tinto",
+      "hex": "#96BBE7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "48%",
+      "source": "https://gima-profi.de/media/image/99/d8/f8/37_Tinto_1920x1920.jpg"
+    },
+    {
+      "code": "23332",
+      "name": "23332 Tinto",
+      "hex": "#BDD5EF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "65%",
+      "source": "https://gima-profi.de/media/image/99/d8/f8/37_Tinto_1920x1920.jpg"
+    },
+    {
+      "code": "23333",
+      "name": "23333 Tinto",
+      "hex": "#CFE0F0",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "72%",
+      "source": "https://gima-profi.de/media/image/99/d8/f8/37_Tinto_1920x1920.jpg"
+    },
+    {
+      "code": "23334",
+      "name": "23334 Tinto",
+      "hex": "#DDE6EF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "78%",
+      "source": "https://gima-profi.de/media/image/99/d8/f8/37_Tinto_1920x1920.jpg"
+    },
+    {
+      "code": "23335",
+      "name": "23335 Tinto",
+      "hex": "#E6EBEF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "83%",
+      "source": "https://gima-profi.de/media/image/99/d8/f8/37_Tinto_1920x1920.jpg"
+    },
+    {
+      "code": "23341",
+      "name": "23341 Marin",
+      "hex": "#91A2B4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "35%",
+      "source": "https://gima-profi.de/media/image/3a/92/a8/38_Marin_1920x1920.jpg"
+    },
+    {
+      "code": "23342",
+      "name": "23342 Marin",
+      "hex": "#ABB8C8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "47%",
+      "source": "https://gima-profi.de/media/image/3a/92/a8/38_Marin_1920x1920.jpg"
+    },
+    {
+      "code": "23343",
+      "name": "23343 Marin",
+      "hex": "#BCC8D4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "57%",
+      "source": "https://gima-profi.de/media/image/3a/92/a8/38_Marin_1920x1920.jpg"
+    },
+    {
+      "code": "23344",
+      "name": "23344 Marin",
+      "hex": "#CCD5DE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "66%",
+      "source": "https://gima-profi.de/media/image/3a/92/a8/38_Marin_1920x1920.jpg"
+    },
+    {
+      "code": "23345",
+      "name": "23345 Marin",
+      "hex": "#DADFE5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "73%",
+      "source": "https://gima-profi.de/media/image/3a/92/a8/38_Marin_1920x1920.jpg"
+    },
+    {
+      "code": "23351",
+      "name": "23351 Lupin",
+      "hex": "#7D7D85",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "21%",
+      "source": "https://gima-profi.de/media/image/b2/d7/d2/40_Lupin_1920x1920.jpg"
+    },
+    {
+      "code": "23352",
+      "name": "23352 Lupin",
+      "hex": "#93989E",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "31%",
+      "source": "https://gima-profi.de/media/image/b2/d7/d2/40_Lupin_1920x1920.jpg"
+    },
+    {
+      "code": "23353",
+      "name": "23353 Lupin",
+      "hex": "#ABACB1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "41%",
+      "source": "https://gima-profi.de/media/image/b2/d7/d2/40_Lupin_1920x1920.jpg"
+    },
+    {
+      "code": "23354",
+      "name": "23354 Lupin",
+      "hex": "#BEBFC4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/b2/d7/d2/40_Lupin_1920x1920.jpg"
+    },
+    {
+      "code": "23355",
+      "name": "23355 Lupin",
+      "hex": "#CDCED0",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "61%",
+      "source": "https://gima-profi.de/media/image/b2/d7/d2/40_Lupin_1920x1920.jpg"
+    },
+    {
+      "code": "23361",
+      "name": "23361 Grey",
+      "hex": "#7F8082",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "22%",
+      "source": "https://gima-profi.de/media/image/92/1b/53/41_Grey_1920x1920.jpg"
+    },
+    {
+      "code": "23362",
+      "name": "23362 Grey",
+      "hex": "#9C9DA2",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "34%",
+      "source": "https://gima-profi.de/media/image/92/1b/53/41_Grey_1920x1920.jpg"
+    },
+    {
+      "code": "23363",
+      "name": "23363 Grey",
+      "hex": "#AFB0B2",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "43%",
+      "source": "https://gima-profi.de/media/image/92/1b/53/41_Grey_1920x1920.jpg"
+    },
+    {
+      "code": "23364",
+      "name": "23364 Grey",
+      "hex": "#C0C1C3",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/92/1b/53/41_Grey_1920x1920.jpg"
+    },
+    {
+      "code": "23365",
+      "name": "23365 Grey",
+      "hex": "#CED0CF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/92/1b/53/41_Grey_1920x1920.jpg"
+    },
+    {
+      "code": "23371",
+      "name": "23371 Dust",
+      "hex": "#757374",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "17%",
+      "source": "https://gima-profi.de/media/image/38/c8/35/42_Dust_1920x1920.jpg"
+    },
+    {
+      "code": "23372",
+      "name": "23372 Dust",
+      "hex": "#929292",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "29%",
+      "source": "https://gima-profi.de/media/image/38/c8/35/42_Dust_1920x1920.jpg"
+    },
+    {
+      "code": "23373",
+      "name": "23373 Dust",
+      "hex": "#A7A7A7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "39%",
+      "source": "https://gima-profi.de/media/image/38/c8/35/42_Dust_1920x1920.jpg"
+    },
+    {
+      "code": "23374",
+      "name": "23374 Dust",
+      "hex": "#BABABA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "49%",
+      "source": "https://gima-profi.de/media/image/38/c8/35/42_Dust_1920x1920.jpg"
+    },
+    {
+      "code": "23375",
+      "name": "23375 Dust",
+      "hex": "#CAC9C7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "59%",
+      "source": "https://gima-profi.de/media/image/38/c8/35/42_Dust_1920x1920.jpg"
+    },
+    {
+      "code": "23381",
+      "name": "23381 Ebenholz",
+      "hex": "#7D7572",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "18%",
+      "source": "https://gima-profi.de/media/image/8e/df/62/43_Ebenholz_1920x1920.jpg"
+    },
+    {
+      "code": "23382",
+      "name": "23382 Ebenholz",
+      "hex": "#989292",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "29%",
+      "source": "https://gima-profi.de/media/image/8e/df/62/43_Ebenholz_1920x1920.jpg"
+    },
+    {
+      "code": "23383",
+      "name": "23383 Ebenholz",
+      "hex": "#ABA5A5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "38%",
+      "source": "https://gima-profi.de/media/image/8e/df/62/43_Ebenholz_1920x1920.jpg"
+    },
+    {
+      "code": "23384",
+      "name": "23384 Ebenholz",
+      "hex": "#BEB8B8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "48%",
+      "source": "https://gima-profi.de/media/image/8e/df/62/43_Ebenholz_1920x1920.jpg"
+    },
+    {
+      "code": "23385",
+      "name": "23385 Ebenholz",
+      "hex": "#CAC9C7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "58%",
+      "source": "https://gima-profi.de/media/image/8e/df/62/43_Ebenholz_1920x1920.jpg"
+    },
+    {
+      "code": "23391",
+      "name": "23391 Vintage",
+      "hex": "#78868F",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "23%",
+      "source": "https://gima-profi.de/media/image/ca/ba/9c/45_Vintage_1920x1920.jpg"
+    },
+    {
+      "code": "23392",
+      "name": "23392 Vintage",
+      "hex": "#919FAA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "34%",
+      "source": "https://gima-profi.de/media/image/ca/ba/9c/45_Vintage_1920x1920.jpg"
+    },
+    {
+      "code": "23393",
+      "name": "23393 Vintage",
+      "hex": "#A6B3BB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "43%",
+      "source": "https://gima-profi.de/media/image/ca/ba/9c/45_Vintage_1920x1920.jpg"
+    },
+    {
+      "code": "23394",
+      "name": "23394 Vintage",
+      "hex": "#B9C2CB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/ca/ba/9c/45_Vintage_1920x1920.jpg"
+    },
+    {
+      "code": "23395",
+      "name": "23395 Vintage",
+      "hex": "#C8CFD5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/ca/ba/9c/45_Vintage_1920x1920.jpg"
+    },
+    {
+      "code": "23401",
+      "name": "23401 Ozean",
+      "hex": "#7F8988",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "24%",
+      "source": "https://gima-profi.de/media/image/e4/0d/f1/46_Ozean_1920x1920.jpg"
+    },
+    {
+      "code": "23402",
+      "name": "23402 Ozean",
+      "hex": "#9BA5A4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "36%",
+      "source": "https://gima-profi.de/media/image/e4/0d/f1/46_Ozean_1920x1920.jpg"
+    },
+    {
+      "code": "23403",
+      "name": "23403 Ozean",
+      "hex": "#AEB8B7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "46%",
+      "source": "https://gima-profi.de/media/image/e4/0d/f1/46_Ozean_1920x1920.jpg"
+    },
+    {
+      "code": "23404",
+      "name": "23404 Ozean",
+      "hex": "#C0C9C8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "57%",
+      "source": "https://gima-profi.de/media/image/e4/0d/f1/46_Ozean_1920x1920.jpg"
+    },
+    {
+      "code": "23405",
+      "name": "23405 Ozean",
+      "hex": "#CFD5D5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "65%",
+      "source": "https://gima-profi.de/media/image/e4/0d/f1/46_Ozean_1920x1920.jpg"
+    },
+    {
+      "code": "23411",
+      "name": "23411 Fels",
+      "hex": "#8C8E8B",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "27%",
+      "source": "https://gima-profi.de/media/image/19/60/1c/47_Fels_1920x1920.jpg"
+    },
+    {
+      "code": "23412",
+      "name": "23412 Fels",
+      "hex": "#A0A29F",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "36%",
+      "source": "https://gima-profi.de/media/image/19/60/1c/47_Fels_1920x1920.jpg"
+    },
+    {
+      "code": "23413",
+      "name": "23413 Fels",
+      "hex": "#B2B4B1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "45%",
+      "source": "https://gima-profi.de/media/image/19/60/1c/47_Fels_1920x1920.jpg"
+    },
+    {
+      "code": "23414",
+      "name": "23414 Fels",
+      "hex": "#C3C5C2",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "56%",
+      "source": "https://gima-profi.de/media/image/19/60/1c/47_Fels_1920x1920.jpg"
+    },
+    {
+      "code": "23415",
+      "name": "23415 Fels",
+      "hex": "#D3D3D1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "65%",
+      "source": "https://gima-profi.de/media/image/19/60/1c/47_Fels_1920x1920.jpg"
+    },
+    {
+      "code": "23421",
+      "name": "23421 Tanne",
+      "hex": "#8F9990",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "31%",
+      "source": "https://gima-profi.de/media/image/ee/d0/9d/49_Tanne_1920x1920.jpg"
+    },
+    {
+      "code": "23422",
+      "name": "23422 Tanne",
+      "hex": "#A0A9A4",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "38%",
+      "source": "https://gima-profi.de/media/image/ee/d0/9d/49_Tanne_1920x1920.jpg"
+    },
+    {
+      "code": "23423",
+      "name": "23423 Tanne",
+      "hex": "#BCC2BE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "54%",
+      "source": "https://gima-profi.de/media/image/ee/d0/9d/49_Tanne_1920x1920.jpg"
+    },
+    {
+      "code": "23424",
+      "name": "23424 Tanne",
+      "hex": "#CBD1CD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/ee/d0/9d/49_Tanne_1920x1920.jpg"
+    },
+    {
+      "code": "23425",
+      "name": "23425 Tanne",
+      "hex": "#D9DBD8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "71%",
+      "source": "https://gima-profi.de/media/image/ee/d0/9d/49_Tanne_1920x1920.jpg"
+    },
+    {
+      "code": "23431",
+      "name": "23431 Salbei",
+      "hex": "#7D8075",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "21%",
+      "source": "https://gima-profi.de/media/image/0e/1f/e4/50_Salbei_1920x1920.jpg"
+    },
+    {
+      "code": "23432",
+      "name": "23432 Salbei",
+      "hex": "#989B92",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "24%",
+      "source": "https://gima-profi.de/media/image/0e/1f/e4/50_Salbei_1920x1920.jpg"
+    },
+    {
+      "code": "23433",
+      "name": "23433 Salbei",
+      "hex": "#ACAFA8",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "42%",
+      "source": "https://gima-profi.de/media/image/0e/1f/e4/50_Salbei_1920x1920.jpg"
+    },
+    {
+      "code": "23434",
+      "name": "23434 Salbei",
+      "hex": "#BEC1BA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/0e/1f/e4/50_Salbei_1920x1920.jpg"
+    },
+    {
+      "code": "23435",
+      "name": "23435 Salbei",
+      "hex": "#CDD0C9",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "61%",
+      "source": "https://gima-profi.de/media/image/0e/1f/e4/50_Salbei_1920x1920.jpg"
+    },
+    {
+      "code": "23441",
+      "name": "23441 Lime",
+      "hex": "#AFCB7E",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "53%",
+      "source": "https://gima-profi.de/media/image/f6/72/77/51_1Lime_1920x1920.jpg"
+    },
+    {
+      "code": "23442",
+      "name": "23442 Lime",
+      "hex": "#C4D89B",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/f6/72/77/51_1Lime_1920x1920.jpg"
+    },
+    {
+      "code": "23443",
+      "name": "23443 Lime",
+      "hex": "#D0E1AD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "70%",
+      "source": "https://gima-profi.de/media/image/f6/72/77/51_1Lime_1920x1920.jpg"
+    },
+    {
+      "code": "23444",
+      "name": "23444 Lime",
+      "hex": "#DCE9BE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/f6/72/77/51_1Lime_1920x1920.jpg"
+    },
+    {
+      "code": "23445",
+      "name": "23445 Lime",
+      "hex": "#E6EDCC",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "81%",
+      "source": "https://gima-profi.de/media/image/f6/72/77/51_1Lime_1920x1920.jpg"
+    },
+    {
+      "code": "23451",
+      "name": "23451 Moor",
+      "hex": "#9A9582",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "30%",
+      "source": "https://gima-profi.de/media/image/f4/2f/a0/53_Moor_1920x1920.jpg"
+    },
+    {
+      "code": "23452",
+      "name": "23452 Moor",
+      "hex": "#A7A491",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "37%",
+      "source": "https://gima-profi.de/media/image/f4/2f/a0/53_Moor_1920x1920.jpg"
+    },
+    {
+      "code": "23453",
+      "name": "23453 Moor",
+      "hex": "#C0C0B6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/f4/2f/a0/53_Moor_1920x1920.jpg"
+    },
+    {
+      "code": "23454",
+      "name": "23454 Moor",
+      "hex": "#CFCFC5",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/f4/2f/a0/53_Moor_1920x1920.jpg"
+    },
+    {
+      "code": "23455",
+      "name": "23455 Moor",
+      "hex": "#E3E3DB",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "76%",
+      "source": "https://gima-profi.de/media/image/f4/2f/a0/53_Moor_1920x1920.jpg"
+    },
+    {
+      "code": "23461",
+      "name": "23461 Kaschmir",
+      "hex": "#C0B3A0",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "46%",
+      "source": "https://gima-profi.de/media/image/4e/0c/de/54_Kaschmir_1920x1920.jpg"
+    },
+    {
+      "code": "23462",
+      "name": "23462 Kaschmir",
+      "hex": "#CBBFAF",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "54%",
+      "source": "https://gima-profi.de/media/image/4e/0c/de/54_Kaschmir_1920x1920.jpg"
+    },
+    {
+      "code": "23463",
+      "name": "23463 Kaschmir",
+      "hex": "#D8CFBE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "63%",
+      "source": "https://gima-profi.de/media/image/4e/0c/de/54_Kaschmir_1920x1920.jpg"
+    },
+    {
+      "code": "23464",
+      "name": "23464 Kaschmir",
+      "hex": "#E3DDD1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "71%",
+      "source": "https://gima-profi.de/media/image/4e/0c/de/54_Kaschmir_1920x1920.jpg"
+    },
+    {
+      "code": "23465",
+      "name": "23465 Kaschmir",
+      "hex": "#E9E2DA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "77%",
+      "source": "https://gima-profi.de/media/image/4e/0c/de/54_Kaschmir_1920x1920.jpg"
+    },
+    {
+      "code": "23471",
+      "name": "23471 Fog",
+      "hex": "#9D9892",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "32%",
+      "source": "https://gima-profi.de/media/image/eb/91/6e/55_Fog_1920x1920.jpg"
+    },
+    {
+      "code": "23472",
+      "name": "23472 Fog",
+      "hex": "#B1ACA6",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "42%",
+      "source": "https://gima-profi.de/media/image/eb/91/6e/55_Fog_1920x1920.jpg"
+    },
+    {
+      "code": "23473",
+      "name": "23473 Fog",
+      "hex": "#C3BEBA",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/eb/91/6e/55_Fog_1920x1920.jpg"
+    },
+    {
+      "code": "23474",
+      "name": "23474 Fog",
+      "hex": "#D0CBC7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "60%",
+      "source": "https://gima-profi.de/media/image/eb/91/6e/55_Fog_1920x1920.jpg"
+    },
+    {
+      "code": "23475",
+      "name": "23475 Fog",
+      "hex": "#DAD9D7",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "69%",
+      "source": "https://gima-profi.de/media/image/eb/91/6e/55_Fog_1920x1920.jpg"
+    },
+    {
+      "code": "23481",
+      "name": "23481 Zigarre",
+      "hex": "#817674",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "18%",
+      "source": "https://gima-profi.de/media/image/a3/bd/90/56_Zigarre_1920x1920.jpg"
+    },
+    {
+      "code": "23482",
+      "name": "23482 Zigarre",
+      "hex": "#978B8D",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "27%",
+      "source": "https://gima-profi.de/media/image/a3/bd/90/56_Zigarre_1920x1920.jpg"
+    },
+    {
+      "code": "23483",
+      "name": "23483 Zigarre",
+      "hex": "#B6ADAE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "43%",
+      "source": "https://gima-profi.de/media/image/a3/bd/90/56_Zigarre_1920x1920.jpg"
+    },
+    {
+      "code": "23484",
+      "name": "23484 Zigarre",
+      "hex": "#C4BEBE",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "52%",
+      "source": "https://gima-profi.de/media/image/a3/bd/90/56_Zigarre_1920x1920.jpg"
+    },
+    {
+      "code": "23485",
+      "name": "23485 Zigarre",
+      "hex": "#D3CDCD",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "1",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/a3/bd/90/56_Zigarre_1920x1920.jpg"
+    },
+    {
+      "code": "23510",
+      "name": "23510 Fossil",
+      "hex": "#CECFD1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "62%",
+      "source": "https://gima-profi.de/media/image/b2/36/aa/57_Fossil_1920x1920.jpg"
+    },
+    {
+      "code": "23520",
+      "name": "23520 Fossil",
+      "hex": "#9B9595",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "30%",
+      "source": "https://gima-profi.de/media/image/b2/36/aa/57_Fossil_1920x1920.jpg"
+    },
+    {
+      "code": "23530",
+      "name": "23530 Fossil",
+      "hex": "#A1A1A1",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "2",
+      "hbw": "36%",
+      "source": "https://gima-profi.de/media/image/b2/36/aa/57_Fossil_1920x1920.jpg"
+    },
+    {
+      "code": "23540",
+      "name": "23540 Auster",
+      "hex": "#797977",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "20%",
+      "source": "https://gima-profi.de/media/image/9d/36/22/58_Auster_1920x1920.jpg"
+    },
+    {
+      "code": "23550",
+      "name": "23550 Auster",
+      "hex": "#787775",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "18%",
+      "source": "https://gima-profi.de/media/image/9d/36/22/58_Auster_1920x1920.jpg"
+    },
+    {
+      "code": "23560",
+      "name": "23560 Auster",
+      "hex": "#787A79",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "19%",
+      "source": "https://gima-profi.de/media/image/9d/36/22/58_Auster_1920x1920.jpg"
+    },
+    {
+      "code": "23570",
+      "name": "23570 Pamir",
+      "hex": "#8F8E8C",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "27%",
+      "source": "https://gima-profi.de/media/image/2a/77/21/59_Pamir_1920x1920.jpg"
+    },
+    {
+      "code": "23580",
+      "name": "23580 Pamir",
+      "hex": "#7E7E80",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "20%",
+      "source": "https://gima-profi.de/media/image/2a/77/21/59_Pamir_1920x1920.jpg"
+    },
+    {
+      "code": "23590",
+      "name": "23590 Pamir",
+      "hex": "#757A7E",
+      "collection": "TREND — Edition 23",
+      "priceGroup": "3",
+      "hbw": "19%",
+      "source": "https://gima-profi.de/media/image/2a/77/21/59_Pamir_1920x1920.jpg"
+    },
+    {
+      "code": "23701",
+      "name": "23701 Bianco Crema",
+      "hex": "#E7D5BD",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "68%",
+      "source": "https://gima-profi.de/media/image/ac/35/f7/61_BiancoCrema_Champagner_Masquerade_PearlColour_1920x1920.jpg"
+    },
+    {
+      "code": "23702",
+      "name": "23702 Champagner",
+      "hex": "#F1E5D5",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "80%",
+      "source": "https://gima-profi.de/media/image/ac/35/f7/61_BiancoCrema_Champagner_Masquerade_PearlColour_1920x1920.jpg"
+    },
+    {
+      "code": "23703",
+      "name": "23703 Masquerade",
+      "hex": "#CDAA96",
+      "collection": "KREATIV",
+      "priceGroup": "3",
+      "hbw": "44%",
+      "source": "https://gima-profi.de/media/image/ac/35/f7/61_BiancoCrema_Champagner_Masquerade_PearlColour_1920x1920.jpg"
+    },
+    {
+      "code": "23704",
+      "name": "23704 Pearl Colour",
+      "hex": "#B9BCB1",
+      "collection": "KREATIV",
+      "priceGroup": "2",
+      "hbw": "49%",
+      "source": "https://gima-profi.de/media/image/ac/35/f7/61_BiancoCrema_Champagner_Masquerade_PearlColour_1920x1920.jpg"
+    },
+    {
+      "code": "23705",
+      "name": "23705 Ceramic",
+      "hex": "#D7D7CF",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "68%",
+      "source": "https://gima-profi.de/media/image/8c/23/44/62_Ceramic_SlakedLime_ChinaClay_Kalabrien_1920x1920.jpg"
+    },
+    {
+      "code": "23706",
+      "name": "23706 Slaked Lime",
+      "hex": "#C5BBAF",
+      "collection": "KREATIV",
+      "priceGroup": "2",
+      "hbw": "51%",
+      "source": "https://gima-profi.de/media/image/8c/23/44/62_Ceramic_SlakedLime_ChinaClay_Kalabrien_1920x1920.jpg"
+    },
+    {
+      "code": "23707",
+      "name": "23707 China Clay",
+      "hex": "#C9B7AD",
+      "collection": "KREATIV",
+      "priceGroup": "2",
+      "hbw": "49%",
+      "source": "https://gima-profi.de/media/image/8c/23/44/62_Ceramic_SlakedLime_ChinaClay_Kalabrien_1920x1920.jpg"
+    },
+    {
+      "code": "23708",
+      "name": "23708 Kalabrien",
+      "hex": "#EBD9CB",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "71%",
+      "source": "https://gima-profi.de/media/image/8c/23/44/62_Ceramic_SlakedLime_ChinaClay_Kalabrien_1920x1920.jpg"
+    },
+    {
+      "code": "23709",
+      "name": "23709 Rolling Fog",
+      "hex": "#B4A391",
+      "collection": "KREATIV",
+      "priceGroup": "3",
+      "hbw": "37%",
+      "source": "https://gima-profi.de/media/image/14/ea/70/63_RollingFog_Hammock_Genua_Cannes_1920x1920.jpg"
+    },
+    {
+      "code": "23710",
+      "name": "23710 Hammock",
+      "hex": "#DBD4CC",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "66%",
+      "source": "https://gima-profi.de/media/image/14/ea/70/63_RollingFog_Hammock_Genua_Cannes_1920x1920.jpg"
+    },
+    {
+      "code": "23711",
+      "name": "23711 Genua",
+      "hex": "#B3A8A6",
+      "collection": "KREATIV",
+      "priceGroup": "3",
+      "hbw": "41%",
+      "source": "https://gima-profi.de/media/image/14/ea/70/63_RollingFog_Hammock_Genua_Cannes_1920x1920.jpg"
+    },
+    {
+      "code": "23712",
+      "name": "23712 Cannes",
+      "hex": "#D4D3D1",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "64%",
+      "source": "https://gima-profi.de/media/image/14/ea/70/63_RollingFog_Hammock_Genua_Cannes_1920x1920.jpg"
+    },
+    {
+      "code": "23713",
+      "name": "23713 Obscura",
+      "hex": "#A4A9AD",
+      "collection": "KREATIV",
+      "priceGroup": "3",
+      "hbw": "40%",
+      "source": "https://gima-profi.de/media/image/a6/d7/f9/64_Obscua_Delphi_Santorin_GreenStone_1920x1920.jpg"
+    },
+    {
+      "code": "23714",
+      "name": "23714 Delphi",
+      "hex": "#A3B1B4",
+      "collection": "KREATIV",
+      "priceGroup": "3",
+      "hbw": "43%",
+      "source": "https://gima-profi.de/media/image/a6/d7/f9/64_Obscua_Delphi_Santorin_GreenStone_1920x1920.jpg"
+    },
+    {
+      "code": "23715",
+      "name": "23715 Santorin",
+      "hex": "#CAC3BB",
+      "collection": "KREATIV",
+      "priceGroup": "1",
+      "hbw": "55%",
+      "source": "https://gima-profi.de/media/image/a6/d7/f9/64_Obscua_Delphi_Santorin_GreenStone_1920x1920.jpg"
+    },
+    {
+      "code": "23716",
+      "name": "23716 Green Stone",
+      "hex": "#B6AC93",
+      "collection": "KREATIV",
+      "priceGroup": "3",
+      "hbw": "42%",
+      "source": "https://gima-profi.de/media/image/a6/d7/f9/64_Obscua_Delphi_Santorin_GreenStone_1920x1920.jpg"
+    },
+    {
+      "code": "23901",
+      "name": "23901 Pineapple",
+      "hex": "#EDBE3C",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "55%",
+      "source": "https://gima-profi.de/media/image/cc/93/10/69_1Pineapple_Bumblebee_Honey_Caramel_Pumpkin_1920x1920.jpg"
+    },
+    {
+      "code": "23902",
+      "name": "23902 Bumblebee",
+      "hex": "#F5AE38",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "50%",
+      "source": "https://gima-profi.de/media/image/cc/93/10/69_1Pineapple_Bumblebee_Honey_Caramel_Pumpkin_1920x1920.jpg"
+    },
+    {
+      "code": "23903",
+      "name": "23903 Honey",
+      "hex": "#D89E4A",
+      "collection": "KREATIV",
+      "priceGroup": "",
+      "hbw": "39%",
+      "source": "https://gima-profi.de/media/image/cc/93/10/69_1Pineapple_Bumblebee_Honey_Caramel_Pumpkin_1920x1920.jpg"
+    },
+    {
+      "code": "23904",
+      "name": "23904 Caramel",
+      "hex": "#D5974C",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "37%",
+      "source": "https://gima-profi.de/media/image/cc/93/10/69_1Pineapple_Bumblebee_Honey_Caramel_Pumpkin_1920x1920.jpg"
+    },
+    {
+      "code": "23905",
+      "name": "23905 Pumpkin",
+      "hex": "#ED8C45",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "37%",
+      "source": "https://gima-profi.de/media/image/cc/93/10/69_1Pineapple_Bumblebee_Honey_Caramel_Pumpkin_1920x1920.jpg"
+    },
+    {
+      "code": "23906",
+      "name": "23906 Fire",
+      "hex": "#CD623E",
+      "collection": "KREATIV",
+      "priceGroup": "",
+      "hbw": "22%",
+      "source": "https://gima-profi.de/media/image/8e/a7/ac/70_1Fire_Papaya_Canary_Jam_Lipstick_1920x1920.jpg"
+    },
+    {
+      "code": "23907",
+      "name": "23907 Papaya",
+      "hex": "#CD764B",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "27%",
+      "source": "https://gima-profi.de/media/image/8e/a7/ac/70_1Fire_Papaya_Canary_Jam_Lipstick_1920x1920.jpg"
+    },
+    {
+      "code": "23908",
+      "name": "23908 Canary",
+      "hex": "#BB654C",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "21%",
+      "source": "https://gima-profi.de/media/image/8e/a7/ac/70_1Fire_Papaya_Canary_Jam_Lipstick_1920x1920.jpg"
+    },
+    {
+      "code": "23909",
+      "name": "23909 Jam",
+      "hex": "#A65F59",
+      "collection": "KREATIV",
+      "priceGroup": "",
+      "hbw": "17%",
+      "source": "https://gima-profi.de/media/image/8e/a7/ac/70_1Fire_Papaya_Canary_Jam_Lipstick_1920x1920.jpg"
+    },
+    {
+      "code": "23910",
+      "name": "23910 Lipstick",
+      "hex": "#8B4539",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "10%",
+      "source": "https://gima-profi.de/media/image/8e/a7/ac/70_1Fire_Papaya_Canary_Jam_Lipstick_1920x1920.jpg"
+    },
+    {
+      "code": "23911",
+      "name": "23911 Crimson",
+      "hex": "#925250",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "12%",
+      "source": "https://gima-profi.de/media/image/75/38/a5/71_2Crimson_Garnet_Mauve_Plum_Lavender_1920x1920.jpg"
+    },
+    {
+      "code": "23912",
+      "name": "23912 Garnet",
+      "hex": "#7C4B46",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "10%",
+      "source": "https://gima-profi.de/media/image/75/38/a5/71_2Crimson_Garnet_Mauve_Plum_Lavender_1920x1920.jpg"
+    },
+    {
+      "code": "23913",
+      "name": "23913 Mauve",
+      "hex": "#8B7081",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "19%",
+      "source": "https://gima-profi.de/media/image/75/38/a5/71_2Crimson_Garnet_Mauve_Plum_Lavender_1920x1920.jpg"
+    },
+    {
+      "code": "23914",
+      "name": "23914 Plum",
+      "hex": "#534B5A",
+      "collection": "KREATIV",
+      "priceGroup": "",
+      "hbw": "8%",
+      "source": "https://gima-profi.de/media/image/75/38/a5/71_2Crimson_Garnet_Mauve_Plum_Lavender_1920x1920.jpg"
+    },
+    {
+      "code": "23915",
+      "name": "23915 Lavender",
+      "hex": "#5B638A",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "13%",
+      "source": "https://gima-profi.de/media/image/75/38/a5/71_2Crimson_Garnet_Mauve_Plum_Lavender_1920x1920.jpg"
+    },
+    {
+      "code": "23916",
+      "name": "23916 Blackberry",
+      "hex": "#5A4647",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "7%",
+      "source": "https://gima-profi.de/media/image/12/6f/29/72_1Blackberry_Merlot_Macadamia_Coke_Mustang_1920x1920.jpg"
+    },
+    {
+      "code": "23917",
+      "name": "23917 Merlot",
+      "hex": "#62413C",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "",
+      "source": "https://gima-profi.de/media/image/12/6f/29/72_1Blackberry_Merlot_Macadamia_Coke_Mustang_1920x1920.jpg"
+    },
+    {
+      "code": "23918",
+      "name": "23918 Macadamia",
+      "hex": "#795545",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "11%",
+      "source": "https://gima-profi.de/media/image/12/6f/29/72_1Blackberry_Merlot_Macadamia_Coke_Mustang_1920x1920.jpg"
+    },
+    {
+      "code": "23919",
+      "name": "23919 Coke",
+      "hex": "#59453E",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "7%",
+      "source": "https://gima-profi.de/media/image/12/6f/29/72_1Blackberry_Merlot_Macadamia_Coke_Mustang_1920x1920.jpg"
+    },
+    {
+      "code": "23920",
+      "name": "23920 Mustang",
+      "hex": "#635042",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "9%",
+      "source": "https://gima-profi.de/media/image/12/6f/29/72_1Blackberry_Merlot_Macadamia_Coke_Mustang_1920x1920.jpg"
+    },
+    {
+      "code": "23921",
+      "name": "23921 Hickory",
+      "hex": "#5A4F49",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "9%",
+      "source": "https://gima-profi.de/media/image/0d/de/cd/73_1Hickory_GreenApple_Garden_Jungle_Army_1920x1920.jpg"
+    },
+    {
+      "code": "23922",
+      "name": "23922 Green Apple",
+      "hex": "#ADB550",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "43%",
+      "source": "https://gima-profi.de/media/image/0d/de/cd/73_1Hickory_GreenApple_Garden_Jungle_Army_1920x1920.jpg"
+    },
+    {
+      "code": "23923",
+      "name": "23923 Garden",
+      "hex": "#72A268",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "30%",
+      "source": "https://gima-profi.de/media/image/0d/de/cd/73_1Hickory_GreenApple_Garden_Jungle_Army_1920x1920.jpg"
+    },
+    {
+      "code": "23924",
+      "name": "23924 Jungle",
+      "hex": "#64837B",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "21%",
+      "source": "https://gima-profi.de/media/image/0d/de/cd/73_1Hickory_GreenApple_Garden_Jungle_Army_1920x1920.jpg"
+    },
+    {
+      "code": "23925",
+      "name": "23925 Army",
+      "hex": "#768068",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "20%",
+      "source": "https://gima-profi.de/media/image/0d/de/cd/73_1Hickory_GreenApple_Garden_Jungle_Army_1920x1920.jpg"
+    },
+    {
+      "code": "23926",
+      "name": "23926 Forest",
+      "hex": "#425C7D",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "11%",
+      "source": "https://gima-profi.de/media/image/c1/18/c6/74_1Forest_Lagoon_Steel_AirForce_Neptun_1920x1920.jpg"
+    },
+    {
+      "code": "23927",
+      "name": "23927 Lagoon",
+      "hex": "#497A8B",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "17%",
+      "source": "https://gima-profi.de/media/image/c1/18/c6/74_1Forest_Lagoon_Steel_AirForce_Neptun_1920x1920.jpg"
+    },
+    {
+      "code": "23928",
+      "name": "23928 Steel",
+      "hex": "#5497C4",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "28%",
+      "source": "https://gima-profi.de/media/image/c1/18/c6/74_1Forest_Lagoon_Steel_AirForce_Neptun_1920x1920.jpg"
+    },
+    {
+      "code": "23929",
+      "name": "23929 Air Force",
+      "hex": "#507995",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "18%",
+      "source": "https://gima-profi.de/media/image/c1/18/c6/74_1Forest_Lagoon_Steel_AirForce_Neptun_1920x1920.jpg"
+    },
+    {
+      "code": "23930",
+      "name": "23930 Neptun",
+      "hex": "#4C6675",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "12%",
+      "source": "https://gima-profi.de/media/image/c1/18/c6/74_1Forest_Lagoon_Steel_AirForce_Neptun_1920x1920.jpg"
+    },
+    {
+      "code": "23931",
+      "name": "23931 Denim",
+      "hex": "#425C7D",
+      "collection": "KREATIV",
+      "priceGroup": "D",
+      "hbw": "10%",
+      "source": "https://gima-profi.de/media/image/05/2c/83/75_1Denim_Smoke_Stone_Graphite_BlackPearl_1920x1920.jpg"
+    },
+    {
+      "code": "23932",
+      "name": "23932 Smoke",
+      "hex": "#65727A",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "16%",
+      "source": "https://gima-profi.de/media/image/05/2c/83/75_1Denim_Smoke_Stone_Graphite_BlackPearl_1920x1920.jpg"
+    },
+    {
+      "code": "23933",
+      "name": "23933 Stone",
+      "hex": "#787F89",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "21%",
+      "source": "https://gima-profi.de/media/image/05/2c/83/75_1Denim_Smoke_Stone_Graphite_BlackPearl_1920x1920.jpg"
+    },
+    {
+      "code": "23934",
+      "name": "23934 Graphite",
+      "hex": "#757B7B",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "19%",
+      "source": "https://gima-profi.de/media/image/05/2c/83/75_1Denim_Smoke_Stone_Graphite_BlackPearl_1920x1920.jpg"
+    },
+    {
+      "code": "23935",
+      "name": "23935 Black Pearl",
+      "hex": "#696768",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "14%",
+      "source": "https://gima-profi.de/media/image/05/2c/83/75_1Denim_Smoke_Stone_Graphite_BlackPearl_1920x1920.jpg"
+    },
+    {
+      "code": "23936",
+      "name": "23936 Asphalt",
+      "hex": "#646361",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "13%",
+      "source": "https://gima-profi.de/media/image/38/0a/87/76_1Asphalt_Silver_Shadow_Chimney_Feh_1920x1920.jpg"
+    },
+    {
+      "code": "23937",
+      "name": "23937 Silver",
+      "hex": "#5D5E60",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "11%",
+      "source": "https://gima-profi.de/media/image/38/0a/87/76_1Asphalt_Silver_Shadow_Chimney_Feh_1920x1920.jpg"
+    },
+    {
+      "code": "23938",
+      "name": "23938 Shadow",
+      "hex": "#464B51",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "7%",
+      "source": "https://gima-profi.de/media/image/38/0a/87/76_1Asphalt_Silver_Shadow_Chimney_Feh_1920x1920.jpg"
+    },
+    {
+      "code": "23939",
+      "name": "23939 Chimney",
+      "hex": "#3B3B3B",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "4%",
+      "source": "https://gima-profi.de/media/image/38/0a/87/76_1Asphalt_Silver_Shadow_Chimney_Feh_1920x1920.jpg"
+    },
+    {
+      "code": "23940",
+      "name": "23940 Feh",
+      "hex": "#828385",
+      "collection": "KREATIV",
+      "priceGroup": "C",
+      "hbw": "22%",
+      "source": "https://gima-profi.de/media/image/38/0a/87/76_1Asphalt_Silver_Shadow_Chimney_Feh_1920x1920.jpg"
+    }
+  ]
+}
